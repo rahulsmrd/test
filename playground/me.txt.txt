@@ -1,0 +1,5 @@
+{{#user}}
+Name: Bandi Rahul
+Skills: HTML, CSS, JS, Jquery, Bootstrap, Django, Python, Data Structures
+Email: rahulsmrd@gmail.com
+{{/user}}
